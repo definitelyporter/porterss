@@ -1,0 +1,4 @@
+This is a sample file.
+
+Something cool
+script.Parent.BrickColor = BrickColor.new('Carnation pink')
